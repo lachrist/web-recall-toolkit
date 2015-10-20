@@ -1,0 +1,10 @@
+{ "name" : "web-recall-toolkit"
+, "version" : "0.0.0"
+, "files" : ["setter", "getter.js", "lister.js", "main.js", "sorter.js", "timer.js"]
+, "main": "main.js"
+, "description" : "A small toolkit for creating accessors to permanent browser data."
+, "keywords" : ["Toolkit", "jQuery", "Browser", "Permanent", "Storage"]
+, "homepage": "http://github.com/lachrist/web-recall-toolkit"
+, "author" : {"name":"Laurent Christophe", "email":"lachrist@vub.ac.be"}
+, "license" : "MIT"
+}
